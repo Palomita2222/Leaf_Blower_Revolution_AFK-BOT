@@ -1,6 +1,6 @@
 # Leaf_Blower_Revolution_AFK-BOT
-This is a Leaf Blower Revolution game script, that collects leaves and AFKs. Its coded fully in Python3, and in one compact script. Also, the code is partially commented.
-GAME : https://gx.games/games/og14id/leaf-blower-revolution-idle-game/
+<p>This is a Leaf Blower Revolution game script, that collects leaves and AFKs. Its coded fully in Python3, and in one compact script. Also, the code is partially commented.</p>
+<h2>GAME : https://gx.games/games/og14id/leaf-blower-revolution-idle-game/</h2>
 
 <h3>For this AFK MOD, it is required to have : <ol> 
 <li> PYTHON 3.10, added to path in the installation process </li>
