@@ -14,4 +14,8 @@ This is a Leaf Blower Revolution game script, that collects leaves and AFKs. Its
 <li> <h3> A console based GUI, with colors, ascii text and Ascii images (Modes) </h3> </li>
 </ul>
 <hr>
+<h1> GAMEPLAY
 <img src="https://i.imgur.com/qFfeam8.png" width=600 height=300>
+<hr>
+  MOD</h1>
+<img src="https://i.imgur.com/Nwv1JeP.png" width=400 height=600>
