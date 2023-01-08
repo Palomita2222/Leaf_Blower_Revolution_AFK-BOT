@@ -14,7 +14,7 @@
 <ul> 
 <li> <h3> 3 Different AFK Modes </h3> </li>
 <li> <h3> A console based GUI, with colors, ascii text and Ascii images (Modes) </h3> </li>
-<li>A new program, that uses computer vision (OPENCV) to detect apples and click on them completely on its own!!! (also detects blower upgrades)
+<li><h3>A new program, that uses computer vision (OPENCV) to detect apples and click on them completely on its own!!! (also detects blower upgrades)</h3>
 </ul>
 <hr>
 <h1> GAMEPLAY</h1>
