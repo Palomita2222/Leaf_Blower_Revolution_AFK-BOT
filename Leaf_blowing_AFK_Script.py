@@ -107,10 +107,11 @@ def menu():
     os.system("cls")
     print(c.Fore.GREEN+VerHor)
     print(c.Fore.GREEN+HorVer)
-    print(c.Fore.GREEN+CentreSquare)
-    main = int(input("What settings do you want, when AFK-ing? (1,2,3) >> "))
+    print(c.Fore.GREEN+CentreSquare+c.Fore.RESET)
+    main = int(input(c.Fore.LIGHTGREEN_EX+"What settings do you want, when AFK-ing? (1,2,3) >> "))
+
     if main == 1:
-        print("The program will start afk-ing in 5 seconds! Please open leaf blowing simulator in fullscreen, with no menus open. To exit, press e (hold e until the script does a full cycle")
+        print(f"The program will {c.Fore.GREEN}start afk-ing{c.Fore.RESET} in 5 seconds! Please open {c.Fore.BLUE}leaf blowing simulator{c.Fore.RESET} in fullscreen, with no menus open. {c.Fore.RED}To exit, press e{c.Fore.RESET} (hold e until the script does a full cycle")
         sleep(5)
         VerHorSequence()
     elif main == 2:
